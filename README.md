@@ -1,14 +1,14 @@
 
 <h1 align="center">
 
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://user-images.githubusercontent.com/77746252/236675080-9b96acf5-5000-45c6-9cd4-44a1d05008df.png" ></a>
+  <img src="https://user-images.githubusercontent.com/77746252/236675080-9b96acf5-5000-45c6-9cd4-44a1d05008df.png" >
 
   CSS Card Hoover Effect
   <br>
 </h1>
 
 
-<h4 align="center">A card design with hover effect using css and html <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">A card design with hover effect using css and html</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
