@@ -29,7 +29,6 @@
   <a href="#built-with">Built with</a> •
   <a href="#demo">Demo</a> •
   <a href="#credit">Credit</a> •
-	
   <a href="#contact">Contact</a> •
   <a href="#license">License</a>
   <a href="#feedback">Feedback</a> •
