@@ -35,7 +35,8 @@
 	
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![image](https://github.com/sami12344/Css-Card-Hover-Effect/assets/77746252/b911ceb3-4b33-46ba-93d2-5c9125c6fad3)
+
 
 ## Key Features
 
