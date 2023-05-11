@@ -54,23 +54,9 @@ The project is limited in scope and functionality, and it may not be suitable fo
 The project could benefit from additional features and functionality. For example, it would be interesting to see how the hover effect could be combined with other CSS features, such as transitions or animations. Additionally, it would be helpful to include more detailed explanations of the CSS code, especially for users who are new to CSS.
 
 Overall, the "CSS Card Hover Effect" project on GitHub is a useful resource for beginners who want to learn more about creating hover effects using CSS. The code is well-organized and easy to read, and the project includes clear instructions on how to use the code. While the project is limited in scope, it serves as a good starting point for those who want to explore the possibilities of CSS hover effects.
-## How To Use
+## Built with
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
 
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
